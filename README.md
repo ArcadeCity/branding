@@ -10,5 +10,4 @@ If you make a template or graphic you want to share with the community, like for
 
 ### Typography note
 
-Our website and app use the beautiful [Gotham](https://www.typography.com/fonts/gotham/overview/) font, but it requires a license to use. For a free/open alternative we recommend [Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans).
-
+Our website, logo and app use the beautiful [Gotham](https://www.typography.com/fonts/gotham/overview/) font, but it requires a license to use. For a free/open alternative we recommend [Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans).
